@@ -10,7 +10,7 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello Prakash Gupta</h2>
-      <p class="text-center">Get ready for a DevOps ride...~~~~~~~~~~~~~~~~~~</p>
+      <p class="text-center">Get ready for a DevOps ride...~~~~~~~~~~~~~~~~~~More fun with docker & ansible</p>
   </div>
 </body>
 </html>
